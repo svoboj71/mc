@@ -716,7 +716,7 @@ dlg_set_size (WDialog * h, int lines, int cols)
 
     if ((h->flags & DLG_TRYUP) != 0)
     {
-        if (y > 3))
+        if (y > 3)
             y -= 2;
         else if (y == 3)
             y = 2;
