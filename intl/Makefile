@@ -17,7 +17,7 @@
 # USA.
 
 PACKAGE = mc
-VERSION = 4.8.11-77-g9bbc510
+VERSION = 4.8.11-101-g1f8022c
 
 SHELL = /bin/sh
 

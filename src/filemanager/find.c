@@ -522,7 +522,6 @@ find_parameters (char **start_dir, ssize_t * start_dir_len,
     const char *file_all_charsets_label = N_("&All charsets");
 #endif
     const char *file_case_label = N_("Cas&e sensitive");
-    const char *file_skip_hidden_label = N_("S&kip hidden");
 
     /* file content */
     const char *content_content_label = N_("Content:");

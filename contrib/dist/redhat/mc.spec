@@ -12,8 +12,8 @@
 %endif
 
 %define mc_version 4.8.11
-%define mc_release 2.77.g9bbc510
-%define mc_tarball 4.8.11-77-g9bbc510
+%define mc_release 2.101.g1f8022c
+%define mc_tarball 4.8.11-101-g1f8022c
 
 Summary:        User-friendly text console file manager and visual shell
 Name:           mc

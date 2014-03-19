@@ -11,7 +11,7 @@
 # Origin: gettext-0.14.3
 
 PACKAGE = mc
-VERSION = 4.8.11-77-g9bbc510
+VERSION = 4.8.11-101-g1f8022c
 PACKAGE_BUGREPORT = 
 
 SHELL = /bin/sh
